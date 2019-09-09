@@ -1,0 +1,192 @@
+@font-face{
+	src:url(../fonts/SourceSansPro-Regular.otf);
+	font-family:font1;
+}
+
+body{
+	margin:0px;
+	padding:0px;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+	margin:0px;
+}
+main{
+	margin:auto;
+	max-width:100%;
+}
+.head{
+	padding:50px 0px;
+	background:yellow;
+}
+.icons i{
+	font-size:35px;
+	padding:10px;
+}
+.head1 i{
+	font-size:35px;
+	padding:10px;
+}
+.head1 h1{
+	padding-top:10px;
+}
+.head2 h1{
+	text-align:center;
+	padding-top:255px;
+}
+.head2 p{
+	text-align:center;
+	padding-top:20px;
+	
+}
+.middle img{
+	float:right;
+}
+.middle h1{
+	float:left;
+}
+.row i{
+	font-size:60px;
+}
+	
+
+.row h1{
+	text-align:center;
+} 
+.head2  button{
+	width:255px;
+	height:57px;
+	background:transparent;
+	border:3px solid black;
+	margin-top:20px;
+	
+	
+}
+.arrow {
+	font-size:30px;
+	margin-top:30px;
+}
+.top{
+	margin-top:50px;
+}
+
+.top p{
+	font-family:font1;
+	font-size:30px;
+	margin-top:30px;
+	color:grey; 
+}
+.section1 {
+	padding-top:90px;
+}
+.second{
+	padding-top:50px;
+}
+.gap{
+	padding-top:90px;
+}
+.third h1{
+	position:relative;
+	
+}
+
+.third h1:before{
+	position:absolute;
+	display:inline-block;
+	content:"";
+	width:100px;
+	border: 1px solid black;
+	top:97%;
+	left:36%;
+}
+
+.gap button{
+	width:138px;
+	height:45px;
+	background:transparent;
+	border:3px solid black;
+	margin-top:20px;
+}
+.second p{
+	color:grey;
+}
+.shift{
+	margin-top:50px;
+}
+.shift-3{
+	margin-top:30px;
+	}
+.keeep{
+	margin-top:50px;
+}
+.info{
+	margin-top:40px;
+}
+.email{
+	width:480px;
+	height:55px;
+	border:2px solid black;
+	padding-left:20px;
+}
+.message{
+	width:480px;
+	height:205px;
+	border:2px solid black;
+	padding:20px;
+}
+.reduce i{
+	font-size:20px;
+}
+.send{
+	width:170px;
+	height:51px;
+	background:black;
+	color:white;
+}
+.sec6{
+	margin-top:30px;
+	background:black;
+	width:100%;
+	color:white;
+}
+.sec6 h1{
+	color:white;
+	padding-top:px;
+}
+.sec6 p{
+	margin-top:50px;
+	color:white;
+}
+.sec5 button{
+	background:black;
+	color:white;
+	width:170px;
+	height:51px;
+}
+.enter{
+	width:506px;
+	height:56px;
+}
+.submit{
+	width:160px;
+	height:56px;
+}
+.f{
+	margin-top:45px;
+}
+.f h3{
+	padding-top:20px;
+}
+.enter,.submit{
+	margin-top:30px;
+}
+.footer{
+	padding-bottom:260px;
+	
+}
+.f button{
+	width:160px;
+	height:56px;
+	background:white;
+	color:black;
+}
